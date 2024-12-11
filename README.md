@@ -8,13 +8,13 @@
 </div>
 
 
-- 🔭 I’m currently working on **E-commerce Backend**
+- 🔭 I’m currently working on **E-commerce full stack**
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Blog Platform**
 
-- 💬 Ask me about **java,jee,php**
+- 💬 Ask me about **java,jee,php,spring boot,angular,laravel**
 
 - 📫 How to reach me **bilal.zay02@gmail.com**
 
