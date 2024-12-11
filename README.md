@@ -4,8 +4,12 @@
 <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 <div align="center" style="font-size:40px; font-family:'Lucida Console', Monaco, monospace; font-style:italic; color: #2E8B57;">
-"As long as you keep trying, there's still hope."
-</div>
+"When you feel like giving up,
+remember
+why you held on
+for so long
+in the first place."
+
 
 
 - 🔭 I’m currently working on **E-commerce full stack**
