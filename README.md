@@ -7,9 +7,9 @@
 "When you feel like giving up, remember why you held on for so long in the first place."
 </div>
 
-- 🔭 I’m currently working on **E-commerce full stack**
+- 🔭 I’m currently working on **Human Resources SaaS back-end**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Microservices Architecture**
 
 - 👯 I’m looking to collaborate on **Blog Platform**
 
