@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **java,jee,php,spring boot,angular,laravel**
 
-- 📫 How to reach me **bilal.zay02@gmail.com**
+- 📫 How to reach me **bilal.zayouta@gmail.com**
 
 - ⚡ Fun fact **You can learn any thing if you want**
 
