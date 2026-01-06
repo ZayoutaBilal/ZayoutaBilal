@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bilal.zayouta@gmail.com**
 
-- ⚡ Fun fact **You can learn any thing if you want**
+- ⚡ Fun fact **Debugging is like a mystery where you’re both the detective and the suspect**
 
 
 <h3 align="left">Languages and Tools:</h3>
