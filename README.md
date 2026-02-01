@@ -14,9 +14,9 @@
   </a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzRyeGZ6ZzRyeGZ6ZzRyeGZ6ZzRyeGZ6ZzRyeGZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</div>
+</div> -->
 
 ---
 
@@ -56,11 +56,13 @@
 
 ---
 
-### 📊 Performance Metrics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZayoutaBilal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+### 📊 GitHub Analytics
+
+<p align="center">  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZayoutaBilal&theme=radical" height="180px" />
 </p>
+
 
 ---
 
