@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://zayouta-bilal.vercel.app/">
-    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-000000?style=for-the-badge&logo=spring&logoColor=white&labelColor=00bfff" alt="Portfolio" />
+  <a href="https://github.com/ZayoutaBilal">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00bfff&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Backend+Specialist" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ZayoutaBilal">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00bfff&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Backend+Specialist" alt="Typing SVG" />
+  <a href="https://zayouta-bilal.vercel.app/">
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-000000?style=for-the-badge&logo=spring&logoColor=white&labelColor=00bfff" alt="Portfolio" />
   </a>
 </p>
 
