@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,55:0ea5e9,100:22d3ee&height=190&section=header&text=Bilal%20Zayouta&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20Distributed%20Systems&descSize=18&descAlignY=57"
+    src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=200&section=header&text=Zayouta%20Bilal&fontSize=80&animation=fadeIn&fontAlignY=35"
     alt="Bilal Zayouta"
   />
 </p>
@@ -88,57 +88,10 @@ open_to:   backend and platform roles, freelance system work
 
 <br />
 
-## &nbsp;⟢&nbsp; Featured Work
-
-<!-- Replace REPO_ONE ... REPO_FOUR with your real repository names. -->
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/ZayoutaBilal/REPO_ONE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZayoutaBilal&repo=REPO_ONE&hide_border=true&bg_color=00000000&title_color=0EA5E9&icon_color=22D3EE&text_color=808A97" alt="Repository one" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/ZayoutaBilal/REPO_TWO">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZayoutaBilal&repo=REPO_TWO&hide_border=true&bg_color=00000000&title_color=0EA5E9&icon_color=22D3EE&text_color=808A97" alt="Repository two" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/ZayoutaBilal/REPO_THREE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZayoutaBilal&repo=REPO_THREE&hide_border=true&bg_color=00000000&title_color=0EA5E9&icon_color=22D3EE&text_color=808A97" alt="Repository three" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/ZayoutaBilal/REPO_FOUR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZayoutaBilal&repo=REPO_FOUR&hide_border=true&bg_color=00000000&title_color=0EA5E9&icon_color=22D3EE&text_color=808A97" alt="Repository four" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/ZayoutaBilal?tab=repositories">
-    <img src="https://img.shields.io/badge/BROWSE_ALL_REPOSITORIES-0B1120?style=for-the-badge&logo=github&logoColor=22D3EE" alt="All repositories" />
-  </a>
-</p>
-
-<br />
-
 ## &nbsp;⟢&nbsp; GitHub Insights
 
 <p align="center">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=ZayoutaBilal&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=0EA5E9&icon_color=22D3EE&text_color=808A97" alt="GitHub stats" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayoutaBilal&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0EA5E9&text_color=808A97" alt="Most used languages" />
-</p>
-
-<p align="center">
   <img width="92%" src="https://streak-stats.demolab.com?user=ZayoutaBilal&hide_border=true&background=00000000&stroke=0EA5E9&ring=0EA5E9&fire=22D3EE&currStreakLabel=0EA5E9&sideLabels=808A97&dates=808A97&currStreakNum=808A97&sideNums=808A97" alt="Contribution streak" />
-</p>
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZayoutaBilal&bg_color=00000000&color=808A97&line=0EA5E9&point=22D3EE&area=true&area_color=0EA5E9&hide_border=true" alt="Contribution activity" />
 </p>
 
 <details>
@@ -146,9 +99,6 @@ open_to:   backend and platform roles, freelance system work
   <br />
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZayoutaBilal&theme=github_dark" height="190" alt="Profile details" />
-  </p>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ZayoutaBilal&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
   </p>
 </details>
 
