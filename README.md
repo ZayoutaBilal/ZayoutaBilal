@@ -1,6 +1,6 @@
 <!-- =========================================================
      ZayoutaBilal / README.md
-     Palette: #0B1120 ink Â· #0EA5E9 sky Â· #22D3EE cyan
+     Palette: #0B1120 ink · #0EA5E9 sky · #22D3EE cyan
      ========================================================= -->
 
 <p align="center">
@@ -26,17 +26,18 @@
   <a href="mailto:bilal.zayouta@gmail.com">
     <img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120" alt="Email" />
   </a>
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=ZayoutaBilal&style=for-the-badge&color=0EA5E9&labelColor=0B1120&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 <br />
 
-## &nbsp; &nbsp; About
+## &nbsp;⟢&nbsp; About
 
 ```yaml
 role:      Software Engineer, backend leaning full stack
 building:  high-performance Human Resources SaaS
 studying:  microservices, event-driven design, distributed systems
-toolbelt:  Java / Spring Boot Â· ASP.NET Core Â· React Â· Kafka Â· Redis Â· Docker
+toolbelt:  Java / Spring Boot · ASP.NET Core · React · Kafka · Redis · Docker
 mindset:   measure first, then optimise. Readable beats clever.
 open_to:   backend and platform roles, freelance system work
 ```
@@ -44,15 +45,15 @@ open_to:   backend and platform roles, freelance system work
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>âš™ï¸ Engineering</h4>
+      <h4>⚙️ Engineering</h4>
       Service boundaries, domain modelling and APIs that survive their second year.
     </td>
     <td width="33%" valign="top">
-      <h4>ðŸš€ Performance</h4>
+      <h4>🚀 Performance</h4>
       Caching layers, query budgets and async pipelines, backed by real numbers.
     </td>
     <td width="33%" valign="top">
-      <h4>ðŸ§ª Craft</h4>
+      <h4>🧪 Craft</h4>
       Tests that document intent, CI that fails loudly, logs you can actually read.
     </td>
   </tr>
@@ -60,7 +61,7 @@ open_to:   backend and platform roles, freelance system work
 
 <br />
 
-## &nbsp; &nbsp; Tech Stack
+## &nbsp;⟢&nbsp; Tech Stack
 
 <table align="center">
   <tr>
@@ -87,7 +88,7 @@ open_to:   backend and platform roles, freelance system work
 
 <br />
 
-## &nbsp; &nbsp; Featured Work
+## &nbsp;⟢&nbsp; Featured Work
 
 <!-- Replace REPO_ONE ... REPO_FOUR with your real repository names. -->
 <table>
@@ -125,7 +126,7 @@ open_to:   backend and platform roles, freelance system work
 
 <br />
 
-## &nbsp; &nbsp; GitHub Insights
+## &nbsp;⟢&nbsp; GitHub Insights
 
 <p align="center">
   <img width="52%" src="https://github-readme-stats.vercel.app/api?username=ZayoutaBilal&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=0EA5E9&icon_color=22D3EE&text_color=808A97" alt="GitHub stats" />
@@ -153,7 +154,7 @@ open_to:   backend and platform roles, freelance system work
 
 <br />
 
-## &nbsp; &nbsp; Let's Build Something
+## &nbsp;⟢&nbsp; Let's Build Something
 
 <p align="center">
   Open to backend, platform and full stack work. Email is the fastest way to reach me.
