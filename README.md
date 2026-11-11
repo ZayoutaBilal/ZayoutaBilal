@@ -26,12 +26,11 @@
   <a href="mailto:bilal.zayouta@gmail.com">
     <img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ZayoutaBilal&style=for-the-badge&color=0EA5E9&labelColor=0B1120&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+  </p>
 
 <br />
 
-## &nbsp;âŸ¢&nbsp; About
+## &nbsp; &nbsp; About
 
 ```yaml
 role:      Software Engineer, backend leaning full stack
@@ -61,7 +60,7 @@ open_to:   backend and platform roles, freelance system work
 
 <br />
 
-## &nbsp;âŸ¢&nbsp; Tech Stack
+## &nbsp; &nbsp; Tech Stack
 
 <table align="center">
   <tr>
@@ -88,7 +87,7 @@ open_to:   backend and platform roles, freelance system work
 
 <br />
 
-## &nbsp;âŸ¢&nbsp; Featured Work
+## &nbsp; &nbsp; Featured Work
 
 <!-- Replace REPO_ONE ... REPO_FOUR with your real repository names. -->
 <table>
@@ -126,7 +125,7 @@ open_to:   backend and platform roles, freelance system work
 
 <br />
 
-## &nbsp;âŸ¢&nbsp; GitHub Insights
+## &nbsp; &nbsp; GitHub Insights
 
 <p align="center">
   <img width="52%" src="https://github-readme-stats.vercel.app/api?username=ZayoutaBilal&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=0EA5E9&icon_color=22D3EE&text_color=808A97" alt="GitHub stats" />
@@ -154,7 +153,7 @@ open_to:   backend and platform roles, freelance system work
 
 <br />
 
-## &nbsp;âŸ¢&nbsp; Let's Build Something
+## &nbsp; &nbsp; Let's Build Something
 
 <p align="center">
   Open to backend, platform and full stack work. Email is the fastest way to reach me.
